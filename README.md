@@ -1,7 +1,7 @@
-# UCB
+# UCB, ANÁLISE E DESENVOLVIMENTO DE SISTEMAS
 
 <div>
-    <h2>Olá!!! Eu sou o Luiz </h2>
+    <h2>Olá!!! Eu sou o José Luiz. </h2>
     <h2>Bem vindo ao meu Perfil.</h2>
     <p>Me chamo José Luiz. Gosto muito de tecnologia, cada dia me sinto mais atraido por ela e pela programação e desenvolvimento de softwares</p>
     <p>Estou me dedicando para me tornar um Desenvolvedor, sou aluno da UNIVERSIDADE CATÓLICA DE BRASÍLIA, estou me formando em ANALISTA DE SISTEMAS.</p>
